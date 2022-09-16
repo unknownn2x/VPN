@@ -1,9 +1,5 @@
-# KozmikServices
+# Unknown Services
 _____
-
-
-## KozmikVPN
-This is great for bypassing network blocks and extension-based blocks (like lightspeed relay, blocksi, etc. Note this only works on school networks that don't have DNS blocking firewalls; make sure you still try though! Also, this has been tested on chrome 104 and may not work on legacy versions where built-in VPNs don't exist.
 
 #### Setup
 1. Download a ONC file from the releases tab
